@@ -27,7 +27,7 @@ public class Main {
         // Segunda tentativa com a ordem dos blocos catch invertida
         try {
             // Isso deve lançar a exceção de ProjetoRepetidoException
-            fetin.adicionarProjeto("Projeto A", 80.);
+            fetin.adicionarProjeto("Projeto A", 80.0);
             fetin.adicionarProjeto("Projeto A", 90.0);
 
         } catch (ProjetoRepetidoException e) {
