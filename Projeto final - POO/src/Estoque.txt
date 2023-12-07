@@ -1,0 +1,15 @@
+Marca: Chevrolet, Modelo: Onix, Preço: R$50000.0
+Marca: Chevrolet, Modelo: Cruze, Preço: R$80000.0
+Marca: Chevrolet, Modelo: Tracker, Preço: R$90000.0
+Marca: Fiat, Modelo: Toro, Preço: R$75000.0
+Marca: Fiat, Modelo: Strada, Preço: R$55000.0
+Marca: Fiat, Modelo: Argo, Preço: R$60000.0
+Marca: Volkswagen, Modelo: Saveiro, Preço: R$60000.0
+Marca: Volkswagen, Modelo: Golf, Preço: R$80000.0
+Marca: Volkswagen, Modelo: Fox, Preço: R$65000.0
+Marca: Hyundai, Modelo: Civic, Preço: R$90000.0
+Marca: Hyundai, Modelo: HRV, Preço: R$85000.0
+Marca: Hyundai, Modelo: HB20, Preço: R$55000.0
+Marca: Renault, Modelo: Oroch, Preço: R$65000.0
+Marca: Renault, Modelo: Duster, Preço: R$75000.0
+Marca: Renault, Modelo: Sandero, Preço: R$60000.0
